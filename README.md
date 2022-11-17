@@ -21,6 +21,8 @@ To install, the user needs to clone the repo and run node server.js
 
 ## Usage
 
+Visit Site - https://shrouded-dawn-26525.herokuapp.com/
+
 ![ScreenShot from application](./assets/note-taker-ss.PNG)
 
 Run "node server.js" and use insomnia to view or visit heroku link.
